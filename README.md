@@ -1,7 +1,9 @@
 # Node Server Sent Events (SSE) Example
 
 This Projects illustrates the usage and guidance to implete the Server side events (SSE).
-To know about What is SSE Click here to read about it on my blog.
+To know about What is SSE Click the below link to read about it on my blog.
+
+https://medium.com/@dillibabukadati/transfer-data-from-back-end-to-front-end-without-sockets-server-sent-events-sse-4a0b54c7eb6e
 
 ## Installation & Starting
 
